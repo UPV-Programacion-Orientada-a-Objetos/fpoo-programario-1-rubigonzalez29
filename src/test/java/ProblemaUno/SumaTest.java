@@ -1,5 +1,6 @@
-package edu.upvictoria.fpoo;
+package ProblemaUno;
 
+import edu.upvictoria.fpoo.ProblemaUno.Suma;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
